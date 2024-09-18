@@ -1,4 +1,5 @@
 # Micromaster in Statistics and Data Science Cheatsheets 👨‍🎓👩‍🎓📚
+Print from https://www.overleaf.com/
 
 ## Overview 🌐
 Welcome to this repository! I have create cheatsheets for the final exams in the Micromaster in Statistics and Data Science program in MITx. Whether you are enrolled in the program or just interested in Probability, Statistics, and Machine Learning, these cheatsheets can be a great resource for you!
